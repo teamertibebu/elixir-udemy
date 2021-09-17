@@ -1,6 +1,6 @@
 # Cards
 
-**This is a simple program created to learn the basics of Elixir. The program contains one module Cards that contains function to create and manage a deck of cards.**
+**This is a simple program created to learn the basics of Elixir. The program contains one module, Cards, that contains functions to create and manage a deck of cards.**
 
 ## Installation
 
